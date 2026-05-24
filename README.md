@@ -1,11 +1,11 @@
 # Hello, I'm Arnav
 
 ## About Me
-Final year Undergraduate student at IIT Kharagpur who loves problem solving.
-I'm a passionate data scientist with expertise in various programming languages and frameworks. I enjoy working on projects that involve machine learning, data analysis, and software development.
+Young professional interested in the intersection of AI infra and distributed systems
 
 ## Languages
-- **Python**: Proficient in Python programming for data analysis, machine learning, and web development.
+- **Python**: Proficient in Python programming for automation, backend engineering and machine learning.
+- **Golang**: Dipped myself in application of Go in backedn engineering and CLI tools
 - **C++**: Experienced in C++ programming for algorithm development and performance-critical applications.
 
 ## Contact Me
