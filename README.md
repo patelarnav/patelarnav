@@ -1,7 +1,7 @@
 # Hello, I'm Arnav
 
 ## About Me
-Young professional interested currently dipping toes in CI and Devops
+Young professional currently dipping toes in CI and Devops
 
 ## Languages
 - **Python**: Proficient in Python programming for automation, backend engineering and machine learning.
