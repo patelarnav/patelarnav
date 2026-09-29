@@ -6,7 +6,7 @@ Young professional currently dipping toes in CI and Devops
 ## Languages
 - **Python**: Proficient in Python programming for automation, backend engineering and machine learning.
 - **Golang**: Dipped myself in application of Go in backend engineering and developing CLI tools
-- **C++**: Experienced in C++ programming for algorithm development and performance-critical applications.
+- **C++**: Experienced in C++ programming for algorithm development.
 
 ## Contact Me
 Feel free to reach out to me at [patelarnav121@gmail.com] to connect.
